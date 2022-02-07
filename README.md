@@ -1,7 +1,14 @@
-# Vue 3 + Vite
+<div align="center">
+	<img wigth="120" src="./images/logo.svg">
+</div>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<h1 align="center">2048</h1>
 
-## Recommended IDE Setup
+[live demo](https://2048.elonehoo.xyz)
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+## Controls
+- Arrow keys
+
+## How to Play
+
+Use the arrow keys to each time you can choose to slide in one of the directions of up, down, left, right, and slide. Every time you slide, all the number squares will move closer to the sliding direction, and the system will also randomly display a number square in the blank space. The squares with the same number are moving closer and colliding. will add up. Continuous superposition finally pieced together the number 2048, good luck!
