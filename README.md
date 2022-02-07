@@ -2,8 +2,6 @@
 	<img wigth="120" src="./images/logo.svg">
 </div>
 
-<h1 align="center">2048</h1>
-
 [live demo](https://2048.elonehoo.xyz)
 
 ## Controls
