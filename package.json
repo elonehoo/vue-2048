@@ -7,9 +7,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.14",
+    "autoprefixer": "^10.4.15",
     "rimraf": "^3.0.2",
-    "sass": "^1.64.2",
+    "sass": "^1.65.1",
     "vue": "^3.3.4"
   },
   "devDependencies": {
