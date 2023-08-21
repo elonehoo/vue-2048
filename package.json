@@ -9,7 +9,7 @@
   "dependencies": {
     "autoprefixer": "^10.4.15",
     "rimraf": "^3.0.2",
-    "sass": "^1.65.1",
+    "sass": "^1.66.1",
     "vue": "^3.3.4"
   },
   "devDependencies": {
