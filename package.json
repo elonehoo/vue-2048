@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.19",
-    "rimraf": "^3.0.2",
+    "rimraf": "^5.0.8",
     "sass": "^1.77.6",
     "vue": "^3.4.31"
   },
