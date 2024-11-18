@@ -9,8 +9,8 @@
   "dependencies": {
     "autoprefixer": "^10.4.20",
     "rimraf": "^3.0.2",
-    "sass": "^1.80.6",
-    "vue": "^3.5.12"
+    "sass": "^1.81.0",
+    "vue": "^3.5.13"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.4",
