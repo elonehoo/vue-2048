@@ -7,10 +7,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.20",
+    "autoprefixer": "^10.6.0",
     "rimraf": "^3.0.2",
-    "sass": "^1.81.0",
-    "vue": "^3.5.13"
+    "sass": "^1.104.1",
+    "vue": "^3.5.42"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.4",
